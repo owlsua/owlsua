@@ -24,6 +24,6 @@
         <li>🇷🇺 Russian – native</li>
         <li>🇬🇧 English – elementary Proficiency</li>
     </ul>
-
+    <br>
     <p>See my full resume  <a href="#">here</a></p>
 </section>
