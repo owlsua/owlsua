@@ -26,5 +26,5 @@
         <li>🇬🇧 English – elementary Proficiency</li>
     </ul>
     <br>
-    <p>See my full resume  <a href="#">here</a></p>
+    <p>See full resume  <a href="https://docs.google.com/document/d/164kcVqqjyR2E1NWIEFDdX4sDdEjHQ1yPwxv11l4Qt9Y/edit?usp=sharing">here</a></p>
 </section>
