@@ -1,7 +1,6 @@
 <section>
     <h2>Hi there 👋</h2>
     <p>My name is Alex, and I'm currently looking for a job as a front-end developer.👨‍💻</p>
-    <br>
     <h3>Experience & Education:</h3>
     <h2><a href="https://htmlacademy.ru/profile/id897219">HTML Academy</a></h2>
     <ul>
