@@ -19,13 +19,11 @@
         <li>Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, React, NodeJS, WebPack, Gulp, Git, Github, Figma, Photoshop</li>
         <li>Soft skills: Teamwork, communication skills</li>
     </ul>
-
     <h2>Languages:</h2>
     <ul>
         <li>🇺🇦 Ukrainan - native</li>
         <li>🇷🇺 Russian – native</li>
         <li>🇬🇧 English – elementary Proficiency</li>
     </ul>
-
     <p>See my full resume  <a href="#">here</a></p>
 </section>
