@@ -23,7 +23,7 @@
     <ul>
         <li>🇺🇦 Ukrainan - native</li>
         <li>🇷🇺 Russian – native</li>
-        <li>🇬🇧 English – elementary Proficiency</li>
+        <li>🇬🇧 English – limited Working Proficiency</li>
     </ul>
     <br>
     <p>See full resume  <a href="https://docs.google.com/document/d/164kcVqqjyR2E1NWIEFDdX4sDdEjHQ1yPwxv11l4Qt9Y/preview#">here</a></p>
