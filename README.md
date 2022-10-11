@@ -16,7 +16,7 @@
     </ul>
     <h3>My skills:</h3>
     <ul>
-        <li>Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, Tailwind, JavaScript, React, WebPack, Gulp, Git, Github, Figma, Photoshop</li>
+        <li>Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, Tailwind, JavaScript, React, Jest, React Testing Library, WebPack, Gulp, Git, Github, Figma, Photoshop</li>
         <li>Soft skills: Teamwork, communication skills</li>
     </ul>
     <h3>Languages:</h3>
