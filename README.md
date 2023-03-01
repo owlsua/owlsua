@@ -26,5 +26,5 @@
         <li>🇬🇧 English – limited Working Proficiency</li>
     </ul>
     <br>
-    <p>See full CV  <a href="https://docs.google.com/document/d/164kcVqqjyR2E1NWIEFDdX4sDdEjHQ1yPwxv11l4Qt9Y/preview#">here</a></p>
+    <p>See full CV  <a href="https://drive.google.com/file/d/1dFdzF2B-9dkUdeeZfY8mIEwyrvGdNIi8/view">here</a></p>
 </section>
