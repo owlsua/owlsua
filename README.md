@@ -1,6 +1,7 @@
 <section>
     <h2>Hi there 👋</h2>
     <p>My name is Alex👨‍💻</p>
+    <p>Visit my personal website <a href="https://github.com/owlsua/romashko-dev">romashko.dev</a></p>
     <h3>Experience & Education:</h3>
     <h2><a href="https://htmlacademy.ru/profile/id897219">HTML Academy</a></h2>
     <ul>
@@ -10,7 +11,7 @@
     </ul>
     <h3>My projects:</h3>
     <ul>
-        <li><a href="https://romashko.dev">romashko.dev</a></li>
+        <li><a href="https://github.com/owlsua/romashko-dev">romashko.dev</a></li>
         <li><a href="https://github.com/owlsua/897219-sedona">sedona</a></li> 
         <li><a href="https://github.com/owlsua/897219-mishka-16">mishka</a></li>
         <li><a href="https://github.com/owlsua/897219-keksobooking-18">keksobooking</a></li>
