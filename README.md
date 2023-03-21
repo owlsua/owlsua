@@ -11,9 +11,9 @@
     <h3>My projects:</h3>
     <ul>
         <li><a href="https://romashko.dev">romashko.dev</a></li>
-        <li><a href="https://github.com/owlsua/897219-sedona">Sedona</a></li> 
-        <li><a href="https://github.com/owlsua/897219-mishka-16">Mishka</a></li>
-        <li><a href="https://github.com/owlsua/897219-keksobooking-18">Keksobooking</a></li>
+        <li><a href="https://github.com/owlsua/897219-sedona">sedona</a></li> 
+        <li><a href="https://github.com/owlsua/897219-mishka-16">mishka</a></li>
+        <li><a href="https://github.com/owlsua/897219-keksobooking-18">keksobooking</a></li>
     </ul>
     <h3>My skills:</h3>
     <ul>
