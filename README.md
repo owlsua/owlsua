@@ -24,7 +24,7 @@
     <ul>
         <li>🇺🇦 Ukrainan - native</li>
         <li>🇷🇺 Russian – native</li>
-        <li>🇬🇧 English – limited Working Proficiency</li>
+        <li>🇬🇧 English – B1</li>
     </ul>
     <br>
     <p>See full CV  <a href="https://drive.google.com/file/d/1WM-h4cGX1uCzkYmpFiZsIG9gSIKseo2Q/view">here</a></p>
