@@ -1,7 +1,6 @@
 <section>
     <h2>Hi there 👋</h2>
     <p>My name is Alex👨‍💻</p>
-    <p>Visit my personal website <a href="https://github.com/owlsua/romashko-dev">romashko.dev</a></p>
     <h3>Experience & Education:</h3>
     <h2><a href="https://htmlacademy.ru/profile/id897219">HTML Academy</a></h2>
     <ul>
@@ -28,5 +27,6 @@
         <li>🇬🇧 English – B1</li>
     </ul>
     <br>
+    <p>Visit my personal website <a href="https://github.com/owlsua/romashko-dev">romashko.dev</a></p>
     <p>See full CV  <a href="https://drive.google.com/file/d/1WM-h4cGX1uCzkYmpFiZsIG9gSIKseo2Q/view">here</a></p>
 </section>
