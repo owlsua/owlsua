@@ -26,5 +26,6 @@
         <li>🇬🇧 English – limited Working Proficiency</li>
     </ul>
     <br>
+    <p>Website  <a href="https://romashko.dev">romashko.dev</a></p>
     <p>See full CV  <a href="https://drive.google.com/file/d/1WM-h4cGX1uCzkYmpFiZsIG9gSIKseo2Q/view">here</a></p>
 </section>
