@@ -28,5 +28,5 @@
     </ul>
     <br>
     <p>Visit my personal website <a href="http://romashko.dev">romashko.dev</a></p>
-    <p>See full CV  <a href="https://drive.google.com/file/d/1XmucbkMhxTUZGvib9kT190q6OKHq31IE/view">here</a></p>
+    <p>See full CV  <a href="https://drive.google.com/file/d/1hKWvGw9Y5YKxSjR5W3vrl3ujegSFfpEZ/view">here</a></p>
 </section>
