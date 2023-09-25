@@ -24,7 +24,7 @@
     <ul>
         <li>🇺🇦 Ukrainan - native</li>
         <li>🇷🇺 Russian – native</li>
-        <li>🇬🇧 English – B1</li>
+        <li>🇬🇧 English – B2</li>
     </ul>
     <br>
     <p>Visit my personal website <a href="http://romashko.dev">romashko.dev</a></p>
