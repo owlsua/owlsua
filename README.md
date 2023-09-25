@@ -17,7 +17,7 @@
     </ul>
     <h3>My skills:</h3>
     <ul>
-        <li>Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, Tailwind, JavaScript, React, Jest, React Testing Library, MobX-state-tree, WebPack, Gulp, Git, Github, Figma, Photoshop</li>
+        <li>Hard skills: Html, css, BEM, less, sass, react, tailwind, typescript, javascript, git, github, jest, reacttesting-library, mobxstate-tree, redux-toolkit, electrum, btc, cypress, nextjs, browserextension, nestjs, postgresql, docker, webpack, eslint, prettier, figma, adobe-photoshop</li>
         <li>Soft skills: Teamwork, communication skills</li>
     </ul>
     <h3>Languages:</h3>
